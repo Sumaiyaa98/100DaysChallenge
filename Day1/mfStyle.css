@@ -1,0 +1,151 @@
+body{
+    background-color: rgb(165, 162, 157);
+    overflow: hidden;
+   
+}
+#boxx{
+    width: 1283px;
+    height: 1000px;
+    background-color: rgb(246, 243, 235);
+    box-shadow: 5px 5px 40px black;
+    margin-left: 580px;
+    margin-top: 50px;
+    position: relative;
+   
+  
+   
+
+}
+#box1{
+    width: 900px;
+    height: 700px;
+    background-color: orange;
+    margin-top: 190px;
+    position: absolute;
+    margin-left: 190px;
+    border-radius: 20px;
+
+}
+#box2{
+    position: absolute;
+    width: 720px;
+    height: 640px;
+    background-color: rgb(226, 230, 233);
+    margin-left: 90px;
+    margin-top: -110px;
+    border-radius: 20px;
+  
+
+
+
+}
+#firstLine{
+    text-align: center;
+    font-size: 130px;
+    margin-top: -20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    margin-bottom: 0;
+    
+    
+}
+@font-face {
+    font-family: "MyFont";
+    src: url(/newjourney/projects/fonts/Allura-Regular.ttf) format(woff);
+
+}
+#lastline{
+    text-align: center;
+    font-family: "MyFont";
+    font-size: 160px;
+    color: rgb(248, 173, 36);
+    font-size: 150px;
+    margin-top: -300px;
+    font-style: italic;
+   position: absolute;
+   z-index: 9999;
+   transform: translateX(-50%);
+   margin-left: 350px;
+    
+}
+
+#midPic{
+   
+    height: 500px;
+    width: 600px;
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 40px;
+    
+   
+}
+#upperText{
+    color: rgb(244, 243, 239);
+    position: absolute;
+    margin-top: 530px;
+    font-size: 70px;
+    margin-left: 130px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+  
+   
+}
+#lowerText{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 510px;
+    font-size: 68px;
+    margin-left: 290px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+#rightPic{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    margin-top: 330px;
+}
+#leftPic{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    margin-top: 340px;
+   
+    margin-left: 1009px;
+}
+#weburl{
+    color: orange;
+    position: absolute;
+    margin-top: 915px;
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 50px;
+    
+}
+#weburl:hover{
+    color: rgb(238, 207, 154);
+}
+#orderButton{
+    color: white;
+    position: absolute;
+    margin-top: 915px;
+    font-size: 27px;
+    text-decoration: none;
+    margin-left: 1000px;
+    background-color: orange;
+    border-radius: 30px;
+    font-weight: bolder;
+    padding: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    outline: none;
+    
+    
+}
+#orderButton:hover{
+    background-color: rgb(244, 200, 119);
+    outline: none;
+    
+
+}
