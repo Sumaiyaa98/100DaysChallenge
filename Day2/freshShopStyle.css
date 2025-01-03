@@ -1,0 +1,140 @@
+body{
+    background-image: url(/newjourney/projects/freshShopweb/ggbg.png);
+    background-repeat: no-repeat;
+    background-size: 1000px 800px;
+  
+}
+.box{
+    margin-left: 200px;
+    margin-top: 46px;
+    width: 1200px;
+    height: 600px;
+    background-image: url(/newjourney/projects/freshShopweb/boxImage.png);
+    box-shadow: 3px 5px 10px hsla(0, 0%, 0%, 0.767);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box p{
+    position: absolute;
+    text-align: start;
+   
+    color: rgb(21, 21, 21);
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 44px;
+    margin-top: 30px;
+  }
+.box .navBar ul{
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 450px;
+    position: absolute;
+   
+}
+.box .navBar a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.902);
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+    
+
+}
+.box .navBar li{
+    padding: 10px 20px;
+    float: left;
+}
+.box .navBar a:hover{
+    color: black;
+    text-decoration: underline;
+   
+}
+
+.box .applePic{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 600px;
+    float: left;
+    position: absolute;
+   
+}
+@font-face {
+    font-family: "MyFont";
+    src: url(/newjourney/projects/freshShopweb/Arizonia-Regular.ttf) format(woff);
+
+}
+.box .applePic p::first-line{
+    font-size: 70px;
+    font-family: "MyFont";
+    position: fixed;
+    
+    
+}
+.box .applePic p{
+    position: absolute;
+    margin-top: 50px;
+   margin-left: -540px;
+   font-size: 16px;
+   color: rgb(248, 248, 236);
+   font-family: monospace;
+   font-weight: 200;
+   padding: 20px 10px;
+}
+.box .applePic button{
+    background-color: hsla(123, 82%, 37%, 0.913);
+    border: none;
+    position: absolute;
+    padding: 16px 30px;
+    font-size: 17px;
+    margin-top: 9px;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    /* margin-top: 300px; */
+}
+.box .applePic button:hover{
+    color: black;
+    /* background-color: hsla(123, 80%, 63%, 0.913); */
+}
+
+.box .applePic #horizontal-line{
+    width: 8px;
+    height: 230px;
+    background-color: rgb(248, 248, 236);
+    position: absolute;
+    margin-top: 95px;
+    margin-left: -600px;
+    border-radius: 1px;
+
+}
+.box .applePic #boxButton{
+    width: 46px;
+    height: 40px;
+    border-radius: 1px;
+    /* background-color: rgb(147, 15, 15); */
+    background-image: url(greenbg.png);
+    background-size: 42px 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    position: absolute;
+    margin-left: 554px;
+    margin-top: 170px;
+    cursor: pointer;
+}
+.box .applePic #boxButton:hover{
+    background-color: white;
+    background-image: url(whitebg.png);
+ }
+
+
+.socialMediaIcons{
+    float: left;
+    margin-left: 250px;
+    position: absolute;
+    margin-top: -66px;
+    display: inline;
+    
+}
