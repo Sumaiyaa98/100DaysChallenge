@@ -13,6 +13,8 @@ This repository is dedicated to my journey of improving my coding skills by work
 ## 🌟 Current Progress  
 - **Day 1:** [Furniture Banner](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day1)
 - **Day 1:** [FreshShop](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day2)
+
+
 Stay tuned for more updates as I progress through the challenge!  
 
 <sub>## 🤝 Let's Connect  
