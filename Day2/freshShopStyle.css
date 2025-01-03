@@ -1,5 +1,5 @@
 body{
-    background-image: url(/newjourney/projects/freshShopweb/ggbg.png);
+    background-image: url(/Day2/Images/freshShopweb/ggbg.png);
     background-repeat: no-repeat;
     background-size: 1000px 800px;
   
@@ -9,7 +9,7 @@ body{
     margin-top: 46px;
     width: 1200px;
     height: 600px;
-    background-image: url(/newjourney/projects/freshShopweb/boxImage.png);
+    background-image: url(/Day2/Images/boxImage.png);
     box-shadow: 3px 5px 10px hsla(0, 0%, 0%, 0.767);
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,7 +60,7 @@ body{
 }
 @font-face {
     font-family: "MyFont";
-    src: url(/newjourney/projects/freshShopweb/Arizonia-Regular.ttf) format(woff);
+    src: url(/Day2/fonts/Arizonia-Regular.ttf) format(woff);
 
 }
 .box .applePic p::first-line{
@@ -114,7 +114,7 @@ body{
     height: 40px;
     border-radius: 1px;
     /* background-color: rgb(147, 15, 15); */
-    background-image: url(greenbg.png);
+    background-image: url(/Day2/Images/greenbg.png);
     background-size: 42px 35px;
     background-position: center;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@ body{
 }
 .box .applePic #boxButton:hover{
     background-color: white;
-    background-image: url(whitebg.png);
+    background-image: url(/Day2/Images/whitebg.png);
  }
 
 
