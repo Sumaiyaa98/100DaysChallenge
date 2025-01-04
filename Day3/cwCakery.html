@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <title>Cw Cakery</title>
+    <link rel="icon" href="cakeIcon.png">
+    <style>
+        body{
+            background-color: rgb(131, 7, 7);
+            overflow: hidden;
+        }
+        .box{
+            width: 1500px;
+            height: 640px;
+            /* background-color: #f2ab5a;
+            background-image: linear-gradient(135deg, #f2ab5a 0%, #fffbfa 74%); */
+            background-color: #cd7f11;
+            background-image: linear-gradient(135deg, #ffca8e 0%, #f7f7f7 61%);
+
+
+            position: fixed;
+            margin-left: 90px;
+            margin-top: 46px;
+            box-shadow: 6px 5px 15px hsla(0, 0%, 0%, 0.858);
+
+        }
+        .box img{
+            margin-left: 999px;
+            width: 501px;
+            height: 670px;
+            margin-top: -30px;
+            position: absolute;
+           
+
+        }
+        @font-face {
+            font-family: "MyFont";
+            src: url(/newjourney/projects/cwBakery/Rochester-Regular.ttf) format(woff);
+
+        }
+        .box p#cw{
+            position: absolute;
+            font-size: 40px;
+            color: orange;
+            margin-left: 75px;
+            margin-top: 37px;
+            font-family: "MyFont";
+            font-weight: bold;
+            
+
+        }
+        .box .navBar{
+            position: absolute;
+        }
+        .box .navBar ul{
+            list-style: none;
+            margin-left: 270px;
+            margin-top: 55px;
+        }
+        .box .navBar a{
+            text-decoration: none;
+            font-size: 20px;
+            padding: 20px 20px;
+            color: orange;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        .box .navBar li{
+            float: left;
+        }
+        .box .navBar a:hover{
+            color: rgb(159, 6, 6);
+            text-decoration: underline;
+        }
+        .box .details {
+            position: absolute;
+            margin-top: 180px;
+            margin-left: 75px;
+
+            
+        }
+        .box .details #mainHeading{
+            color: rgb(159, 6, 6);
+            font-size: 70px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        .box .details #para{
+            font-size: 17px;
+            color: rgb(50, 48, 48);
+            font-family:cursive;
+            font-weight: 500;
+            padding-top: -20px;
+            line-height: 1.7;
+          
+
+        }
+        .box .details button{
+            padding: 15px 30px;
+            background-color: rgb(159, 6, 6);
+            border-radius: 2px;
+            border: none;
+            margin-top: 19px;
+            font-size: 17px;
+            color: white;
+            box-shadow: 4px 5px 5px hsla(0, 0%, 0%, 0.799);
+            cursor: pointer;
+            font-weight: 500;
+        }
+        .box .details button:hover{
+            background-color: rgb(240, 157, 4);
+            color: rgb(159, 6, 6);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="box">
+        <p id="cw">CW <span style="color: rgb(159, 6, 6);">Cakery</span></p>
+        <div class="navBar">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Place Order</a></li>
+                <li><a href="">Contact Us</a></li>
+            </ul>
+
+        </div>
+        <p class="details">
+            <span id="mainHeading">The perfect<br> cake everytime</span>
+            <span id="para"><br>It is a long established fact that a reader will be<br>distracted by the readable content of a page<br> when looking at its layout</span>
+            <br><button>Place Order</button>
+        </p>
+        <img src="cakePic.png">
+
+    </div>
+</body>
+</html>
