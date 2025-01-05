@@ -14,6 +14,7 @@ This repository is dedicated to my journey of improving my coding skills by work
 - **Day 1:** [Furniture Banner](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day1)
 - **Day 2:** [FreshShop](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day2)
 - **Day 3:** [Cw Cakery](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day3)
+- **Day 4:** [My CupCake](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day4)
 
 Stay tuned for more updates as I progress through the challenge!  
 
