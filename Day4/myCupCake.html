@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <title>My CupCake</title>
+    <link rel="icon" href="cupcakeIcon.png">
+    <style>
+        body{
+            background-color: rgb(250, 225, 214);
+            overflow: hidden;
+        }
+        .box{
+            width: 1890px;
+            height: 920px;
+            background-color: #350909;
+            background-image: linear-gradient(90deg, #350909 12%, #500910 22%, #4c151a 26%, #240202 45%);
+
+            margin-left: 320px;
+            margin-top: 100px;
+            border-radius: 14px;
+            box-shadow: 3px 5px 16px hsla(0, 0%, 0%, 0.9);
+            position: fixed;
+
+
+        }
+        .box img{
+            width: 620px;
+            height: 640px;
+            position: absolute;
+            margin-top: 180px;
+            margin-left: 150px;
+        }
+        @font-face {
+            font-family: "MyFont";
+            src: url(/newjourney/projects/myCupcakes/Allison-Regular.ttf) format(woff);
+
+        }
+        @font-face {
+            font-family: "Allura";
+            src: url(/newjourney/projects/fonts/Allura-Regular.ttf) format(woff);
+
+        }
+        @font-face {
+            font-family: "Amiko";
+            src: url(Amiko-Regular.ttf) format(woff);
+
+        }
+        .box p#topHeading{
+            color: white;
+            position: absolute;
+            margin-top: 50px;
+            margin-left: 65px;
+            font-family: "MyFont";
+            font-size: 40px;
+            margin-bottom: 0;
+        }
+        .box p#smallHeading{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+          
+            margin-top: 95px;
+            margin-left: 95px;
+            color: white;
+            position: absolute;
+        }
+
+        .box .navBar ul{
+            list-style: none;
+            position: absolute;
+            margin-top: 75px;
+            margin-left: 770px;
+        }
+        .box .navBar a{
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+        .box .navBar li{
+            float: left;
+            margin-left: 90px;
+        }
+        .box .navBar a:hover{
+
+            color: #c59840;
+            text-decoration: underline;
+        }
+
+        .box .mainPortion{
+            position: absolute;
+            margin-top: 140px;
+            margin-left: 890px;
+            width: 750px;
+            height: 700px;
+           
+            
+
+        }
+        .box .mainPortion p#mainheading{
+            color: white;
+            text-align: start;
+            font-size: 110px;
+            font-family: "Allura";
+            margin-top: 46px;
+           
+        }
+        .box .mainPortion p#details{
+            font-size: 14px;
+            font-weight: 600;
+           
+            font-family: "Amiko";
+            margin-top: -80px;
+            color: #c59840;
+            letter-spacing: 2.5px;
+            margin-bottom: 40px;
+
+        }
+        .box .mainPortion .info p.infotails{
+            float: left;
+            color: white;
+            font-size: 25px;
+            font-weight: 600;
+            font-family: "Amiko";
+            
+        }
+        .box .mainPortion .info .units{
+            color: #c59840;
+            font-size: 14px;
+            
+        }
+        .box .mainPortion .info .horizontalLine{
+            margin-top: 30px;
+            width: 1px;
+            height: 55px;
+            background-color: #c59840;
+            float: left;
+            margin-right: 60px;
+            margin-left: 60px;
+
+        }
+        .box .mainPortion .price{
+            color: white;
+          
+           margin-top: 170px;
+           font-size: 35px;
+           font-weight: 500;
+           font-family: "Amiko";
+           
+        }
+        .box .mainPortion button{
+            background-color: rgb(254, 234, 228);
+            font-size: 20px;
+            padding: 22px 40px;
+            margin-left: 70px;
+            font-weight: 1000;
+           font-family: Arial, Helvetica, sans-serif;
+           border-radius: 40px;
+           cursor: pointer;
+           
+        }
+        .box .mainPortion button:hover{
+            background-color: #c59840;
+        }
+        .box .mainPortion .whiteSpot{
+            width: 6px;
+            height: 6px;
+            background-color: white;
+            border-radius: 40px;
+            margin-left: -840px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+            <p id="topHeading">my Cupcake<br></p>
+            <p id="smallHeading">MADE AT HOME</p>
+            <div class="navBar">
+                <ul>
+                    <li><a href="myCupCake.html" >MENU</a></li>
+                    <li><a href="myCupCake.html">DRINKS</a></li>
+                    <li><a href="myCupCake.html" style="color: #c59840;">DELIVERY</a></li>
+                    <li><a href="myCupCake.html">CONTACTS</a></li>
+                </ul>
+            </div>
+            <img src="cupCakePic.png">
+
+            <main>
+                <div class="mainPortion">
+                    <p id="mainheading">Milk Chocolate</p>
+                    <p id="details">INGREDIENTS
+                        <span style="color: white; font-weight: 500;"><br><br>The composition of the cupcake includes: butter, sugar, milk,<br>cocoa, eggs, baking powder, flour, cream, chocolate powder.<br> </span>
+                    </p>
+                    <div class="info">
+
+                        <p class="infotails">216<span class="units"><br>KCAL</span></p>
+                        <div class="horizontalLine"></div>
+                       <p class="infotails">3,8<span class="units"><br>SQRL</span></p>
+                        <div class="horizontalLine"></div>
+                        <p class="infotails">9,2<span class="units"><br>FAT</span></p>
+                        <div class="horizontalLine"></div>
+                        <p class="infotails">15,6<span class="units"><br>CARBS</span></p>
+                        
+                    </div>
+                    <p class="price">$11.50<sub style="font-size: 15px; color: #c59840; font-weight: 600;">&nbsp;/&nbsp; 6 PCS</sub>
+                    <button>ADD TO BAG</button></p>
+
+                    <footer>
+                       <div class="whiteSpot"></div>
+                       <br>
+                       <div class="whiteSpot"></div>
+                       <br>
+                       <div class="whiteSpot" style="width: 12px; height: 12px; margin-left: -843px;"></div>
+                       <br>
+                       <div class="whiteSpot"></div>
+                    </footer>
+                </div>
+            </main>
+    </div>
+</body>
+</html>
