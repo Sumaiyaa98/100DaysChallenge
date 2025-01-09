@@ -1,0 +1,85 @@
+        body{
+            background-image: url(leaf-ezgif.com-optipng.png);
+            background-attachment: fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            margin-top: 24px;
+            align-items: center;
+            overflow: hidden;
+        }
+        .box{
+            width: 900px;
+            height: 500px;
+            box-shadow: 5px 5px 25px hsla(0, 0%, 9%, 0.865);;
+            backdrop-filter: blur(40px);
+            background: #86808b25;
+            border-radius: 20px;
+           
+        }
+        .box .navBar ul{
+            list-style: none;
+            margin-left: 410px;
+            margin-top: 25px;
+            position: absolute;
+        }
+        .box .navBar a{
+            text-decoration: none;
+            color: rgba(239, 232, 232, 0.842);
+            font-family: monospace;
+            font-size: 12px;
+            
+        }
+        .box .navBar a:hover{
+            color: white;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+        .box .navBar li{
+            float: left;
+            
+            margin-right: 30px;
+        }
+        .box h1{
+            color: rgb(255, 246, 246);
+            position: absolute;
+            margin-top: 130px;
+            letter-spacing: 1px;
+            margin-left: 64px;
+            line-height: 1.2;
+            font-size: 44px;
+        }
+        .box p{
+             position: absolute;
+             margin-top: 310px;
+             color: rgba(255, 255, 255, 0.906);
+             font-family: monospace;
+             margin-left: 60px;
+             font-size: 11px;
+        }
+        .box button{
+            background-color: white;
+            border: none;
+            border-radius: 20px;
+            padding: 10px 24px;
+            font-size: 11px;
+            cursor: pointer;
+            box-shadow: 2px 3px 15px hsl(0, 0%, 20%);
+            color: rgb(48, 47, 47);
+            font-size: bold;
+        }
+        .box button:hover{
+            background-color: rgb(108, 112, 108);
+            color: rgb(10, 66, 23);
+        }
+        .box img{
+            margin-left: 490px;
+          
+            position: absolute;
+            margin-top: 130px;
+            transform: skewY(22deg);
+            width: 600px;
+           
+            height: 400px;
+            
+        }
