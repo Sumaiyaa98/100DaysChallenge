@@ -17,6 +17,7 @@ This repository is dedicated to my journey of improving my coding skills by work
 - **Day 4:** [My CupCake](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day4)
 - **Day 5:** [Icons Dashboard](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day5)
 - **Day 6:** [Login Page](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day6)
+- **Day 7:** [PlanFashion](https://github.com/Sumaiyaa98/100DaysChallenge/tree/main/Day7)
 
 Stay tuned for more updates as I progress through the challenge!  
 
