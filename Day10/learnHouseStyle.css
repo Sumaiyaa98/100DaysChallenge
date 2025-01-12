@@ -1,5 +1,5 @@
 body{
-    background-image: url(purple_bg.jpg);
+    background-image: url(/Day10/Images/purple_bg.jpg);
     background-position: top;
     /* background-attachment: fixed; */
     background-size: 1400px 490px;
@@ -142,7 +142,7 @@ body{
    height: 270px;
    width: 300px;
    box-shadow: 4px 5px 5px rgb(92, 90, 89) ;
-   background-image: url(box1.jpg);
+   background-image: url(/Day10/Images/box1.jpg);
    border-radius: 20px;
    position: sticky;
  }
@@ -152,7 +152,7 @@ body{
    width: 70px;
    margin-top: 30px;
    margin-left: 40px;
-   background-image: url(smallbg.jpg);
+   background-image: url(/Day10/Images/smallbg.jpg);
    
   
    box-shadow: 3px 3px 5px rgb(108, 104, 104);
@@ -238,7 +238,7 @@ body{
   float: left;
 }
 #midpic{
-  background-image: url(purple_bg.jpg);
+  background-image: url(/Day10/Images/purple_bg.jpg);
   margin-left: 410px;
   height: 470px;
   width: 460px;
@@ -267,7 +267,7 @@ body{
 
 }
 footer{
-  background-image: url(purple_bg.jpg);
+  background-image: url(/Day10/Images/purple_bg.jpg);
   width: 1400px;
   height: 480px;
   margin-top: 150px;
