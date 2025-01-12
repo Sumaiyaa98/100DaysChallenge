@@ -1,0 +1,290 @@
+body{
+    background-image: url(purple_bg.jpg);
+    background-position: top;
+    /* background-attachment: fixed; */
+    background-size: 1400px 490px;
+   
+    background-repeat: no-repeat;
+   
+
+    
+    background-color:  rgb(241, 236, 241);
+    overflow-x: hidden;  /* Hides the horizontal scrollbar */
+    overflow-y: auto; 
+}
+
+ #headerImg{
+    float: right;
+    height: 470px;
+     margin-top: 0;
+    margin-right: 100px;
+    margin-top: -40px;
+   width: 450px;
+   
+ }
+ #lh{
+    font-size: larger;
+     color: white;
+    font-weight: bold;
+     margin-top: 10px;
+     margin-left: 80px;
+     float: left;
+     margin-right: 550px;
+     
+ }
+ .navBar{
+     
+     background-color: transparent;
+    color: white;
+    border-radius: 40px;
+    padding: 10px;
+    font-size: 15px;
+    margin-right: 10px;
+    margin-bottom: 0;
+    
+    
+ }
+ .navBar:hover{
+  background-color: rgb(211, 212, 212);
+  color: black;
+ }
+ #str{
+    color: rgba(246, 255, 126, 0.877);
+    margin-left: 70px;
+    font-size: 15px;
+    margin-bottom: 0;
+    font-weight: bold;
+ }
+ #headg{
+    color: white;
+    font-weight: bolder;
+    font-size: 55px;
+    margin-left: 60px;
+    margin-top: -10px;
+    font-family:'Courier New', Courier, monospace;
+    
+ }
+ #headg::after{
+    content: "🔥";
+    font-size: 40px;
+    
+
+ }
+
+ #horizontal-line{
+    height: 50px; /* Thickness of the line */
+      width: 2px; /* Full width */
+      background-color: rgb(237, 226, 226); /* Color of the line */
+      margin: 20px 0; 
+    float: left;
+    margin-left: 60px;
+    margin-right: 10px;
+    margin-top: -40px;
+ }
+ #htails{
+    color: white;
+    margin-left: 65px;
+    margin-top: -40px;
+    font-size: 15px;
+    margin-bottom: 5px;
+ }
+
+ #appicon{
+
+   width: 120px;
+   margin-left: -20px;
+   border-radius: 30px;
+
+ }
+#googleicon{
+   width: 130px;
+   margin-left: 50px;
+   border-radius: 20px;
+}
+ .m{
+   color: white;
+   float: left;
+   margin-left: 30px;
+   font-size: 18px;
+   margin-top: 5px;
+   
+   
+ }
+ .mline{
+   height: 50px; /* Thickness of the line */
+   width: 2px; /* Full width */
+   background-color: rgb(237, 226, 226); /* Color of the line */
+   margin-left: 15px; 
+   float: left;
+   margin-top: 15px;
+ }
+ .mtails{
+   color: white;
+  float: left;
+  margin-left: -50px;
+  font-size: 12px;
+  font-weight: normal;
+ }
+ #midd{
+   margin-top: 160px;
+ }
+ h3{
+   font-family: monospace;
+   color: black;
+   text-align: center;
+   font-size: 26px;
+ }
+ 
+ .boxx1{
+  margin-top: 20px;
+   margin-left: 70px;
+   float: left;
+   height: 270px;
+   width: 300px;
+   box-shadow: 4px 5px 5px rgb(92, 90, 89) ;
+   background-image: url(box1.jpg);
+   border-radius: 20px;
+   position: sticky;
+ }
+ .boxx2{
+   border-radius: 10px;
+   height: 70px;
+   width: 70px;
+   margin-top: 30px;
+   margin-left: 40px;
+   background-image: url(smallbg.jpg);
+   
+  
+   box-shadow: 3px 3px 5px rgb(108, 104, 104);
+   position: static;
+ }
+ #supportIcon{
+  margin-left: 2px;
+ }
+ #topGuideIcon{
+   margin-left: 2px;
+ }
+ #BestCourseIcon{
+   margin-left: 2px;
+ }
+ .boxdeheadg{
+   color: white;
+   font-weight: bolder;
+   font-size: 24px;
+   margin-top: 20px;
+   margin-left: 40px;
+   font-family: monospace;
+   margin-bottom: 0;
+   
+ }
+ .boxdetails{
+   color: white;
+   margin-left: 40px;
+   margin-top: 10px;
+ }
+.boxfoot{
+   color: white;
+   font-weight: bold;
+   margin-left: 40px;
+   font-family: monospace;
+   font-size: 16px;
+
+}
+.boxfoot:hover{
+  color: rgb(16, 15, 15);
+  cursor: pointer;
+}
+.vertline{
+  height: 2px; /* Thickness of the line */
+      width: 155px; /* Full width */
+      
+      margin-left: 60px; 
+      margin-top: 28px;
+      background-color: black;
+   
+}
+.verttext{
+  
+  margin-left: 60px;
+  margin-top: 25px;
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: 520;
+  margin-bottom: 0;
+}
+
+.smaltxt{
+  font-size: 10px;
+  margin-left: 60px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.smaltxt::after{
+  margin-top: 20px;
+  margin-left: 90px;
+  content: "↗";
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: rgb(60, 25, 95);
+  border-width: 18px;
+
+  padding: 3px;
+  border-radius: 80%;
+  
+}
+#midpart{
+  float: left;
+}
+#midpic{
+  background-image: url(purple_bg.jpg);
+  margin-left: 410px;
+  height: 470px;
+  width: 460px;
+  border-radius: 40px;
+  margin-bottom: -90px;
+
+}
+
+.middtextt{
+ 
+ text-align: right;
+  margin-top: -440px;
+  font-size: 43px;
+  margin-right: 50px;
+  margin-bottom: 0;
+  font-family: serif;
+  font-weight: 500;
+
+}
+.middsmltext{
+  font-size: 12px;
+ text-align: right;
+  margin-top: 2px;
+ 
+  margin-right: 50px;
+
+}
+footer{
+  background-image: url(purple_bg.jpg);
+  width: 1400px;
+  height: 480px;
+  margin-top: 150px;
+  margin-left: -20px;
+  background-repeat: no-repeat;
+  background-size: 1400px 490px;
+ }
+ #ourCourse{
+  color: white;
+  font-weight: bolder;
+   font-size: 28px;
+   margin-top: 20px;
+   /* margin-left: 40px; */
+   font-family: monospace;
+   margin-bottom: 0;
+   text-align: center;
+   
+  padding-top: 40px;
+  padding-right: 70px;
+ }
