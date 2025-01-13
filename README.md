@@ -12,16 +12,17 @@ This repository is dedicated to my journey of improving my coding skills by work
 
 ## 🌟 Current Progress  
 - **Day 1:** [Furniture Banner](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day1)
-- **Day 2:** [FreshShop](https://github.com/Sumaiyaa98/10-days-of-learning-html/tree/main/Day2)
-- **Day 3:** [Cw Cakery](https://github.com/Sumaiyaa98/10-days-of-learning-htmle/tree/main/Day3)
-- **Day 4:** [My CupCake](https://github.com/Sumaiyaa98/10-days-of-learning-html/tree/main/Day4)
-- **Day 5:** [Icons Dashboard](https://github.com/Sumaiyaa98/10-days-of-learning-html/tree/main/Day5)
-- **Day 6:** [Login Page](https://github.com/Sumaiyaa98/10-days-of-learning-html/tree/main/Day6)
-- **Day 7:** [PlanFashion](https://github.com/Sumaiyaa98/10-days-of-learning-html/tree/main/Day7)
-- **Day 7:** [ FreshJuice](https://github.com/Sumaiyaa98/10-days-of-learning-html/tree/main/Day8)
-- 
+- **Day 2:** [FreshShop](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day2)
+- **Day 3:** [Cw Cakery](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day3)
+- **Day 4:** [My CupCake](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day4)
+- **Day 5:** [Icons Dashboard](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day5)
+- **Day 6:** [Login Page](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day6)
+- **Day 7:** [PlanFashion](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day7)
+- **Day 8:** [FreshJuice](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day8)
+- **Day 9:** [Mighty](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day9)
+- **Day 10:** [Learn@House](https://github.com/Sumaiyaa98/10DaysOfLearningHtmlAndCss/tree/main/Day10)
 
-Stay tuned for more updates as I progress through the challenge!  
+
 
 <sub>## 🤝 Let's Connect  
 Feel free to explore, share feedback, or even collaborate on these projects. Together, we grow!</sub>
